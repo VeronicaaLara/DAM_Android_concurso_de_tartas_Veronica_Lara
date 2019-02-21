@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Best Cake Baker!</string>
+    <string name="lastname_hint">Apellidos</string>
+    <string name="name_hint">Nombre</string>
+    <string name="age_hint">Edad</string>
+    <string name="sign_button">Inscribirse</string>
+    <string name="header">Best Cake Baker!</string>
+    <string name="age_error">Debe ser mayor de edad para participar.</string>
+    <string name="lastname_error">Debe introducir un apellido.</string>
+    <string name="name_error">Debe introducir un nombre.</string>
+    <string name="sex_textview">Sexo</string>
+    <string name="sex_option_01">Hombre</string>
+    <string name="sex_option_02">Mujer</string>
+    <string name="veteran_text">¿Ha participado en alguna otra competición?</string>
+    <string name="contest_hint">Nombre de la competición.</string>
+    <string name="contest_error">Debe introducir el nombre de la competición.</string>
+    <string name="age_format_error">Debe introducir una edad válida.</string>
+</resources>
